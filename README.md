@@ -22,5 +22,3 @@ PostgreSQL • Docker • AWS • Golang
 [LinkedIn](https://linkedin.com/in/tirth-patel-594a76250) 
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthWillLearn&show_icons=true&hide_border=true)
