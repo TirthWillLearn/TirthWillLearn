@@ -21,4 +21,3 @@ PostgreSQL • Docker • AWS • Golang
 ### 🌐 Connect with me
 [LinkedIn](https://linkedin.com/in/tirth-patel-594a76250) 
 
----
