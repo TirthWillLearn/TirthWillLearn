@@ -1,23 +1,25 @@
-# Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Tirth Patel**, a backend developer from Mumbai, India.  
-I specialize in building clean, scalable REST APIs and backend systems.
+I’m [**Tirth Patel**](https://www.tirthdev.in), a backend developer based in Mumbai, India.  
 
-Outside of coding, I’m diving deeper into cloud deployments, containerization, and exploring new backend technologies.
+I specialize in building clean, scalable REST APIs and backend systems.  
+Outside of coding, I’m exploring cloud deployments, containerization, and advancing my skills in modern backend technologies.
 
-**What I’m working on:**
-- 📚 Bookstore API (Node.js, Express, MySQL, JWT)
-- 💼 Job Portal API (MySQL, JWT, Node.js)
+#### Projects I’ve built:
+* 📚 **Bookstore API** — Node.js, Express, MySQL, JWT Authentication  
+* 💼 **Job Portal API** — Node.js, Express, MySQL, JWT Authentication  
 
-**Currently learning:**
-PostgreSQL • Docker • AWS • Golang 
+#### Currently learning:
+* 🐘 PostgreSQL
+* 🐳 Docker
+* ☁️ AWS
+* 🐹 Golang
 
-**Fun fact:** I enjoy building real-world apps more than watching tutorials.
+#### Fun Facts:
+* I enjoy building real-world apps more than watching tutorials.  
+* I’m always curious about optimizing backend performance.  
 
 ---
-📄 **See my full GitHub profile version here →** [Full Profile README](https://github.com/TirthWillLearn/Tirth-Patel-)
----
 
-### 🌐 Connect with me
-[LinkedIn](https://linkedin.com/in/tirth-patel-594a76250) 
-
+📌 **Want to know more about my journey, skills, and projects?**  
+Check out my **[Full GitHub Profile README →](https://github.com/TirthWillLearn/Tirth-Patel-)**
