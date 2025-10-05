@@ -11,9 +11,9 @@ Outside of coding, I’m exploring cloud deployments, containerization, and adva
 
 #### Currently learning:
 * 🐘 PostgreSQL
+* 🚀 Redis
 * 🐳 Docker
 * ☁️ AWS
-* 🐹 Golang
 
 #### Fun Facts:
 * I enjoy building real-world apps more than watching tutorials.  
